@@ -93,6 +93,12 @@ a:hover {
     color: rgba(255, 255, 255, .7);
 }
 
+.back-background {
+    background-color: rgba(48,51,50,.95);
+    padding: 40px 40px 40px 40px;
+    border-radius: 2rem;
+}
+
 .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
 }
